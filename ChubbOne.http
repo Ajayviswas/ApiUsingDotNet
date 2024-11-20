@@ -1,0 +1,6 @@
+@ChubbOne_HostAddress = http://localhost:5181
+
+GET {{ChubbOne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
